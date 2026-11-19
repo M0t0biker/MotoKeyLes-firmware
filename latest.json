@@ -1,9 +1,9 @@
 {
-  "version": "0.10.10",
+  "version": "0.10.11",
   "board": "esp32-wroom-32e-n4-power-v1",
-  "file": "MotoKeyLes-0.10.10.bin",
-  "size": 1856512,
-  "sha256": "c11835b7ce6e44fc32277128b9355311a3ae722d0061c67e40faf1dbc8af0de1",
-  "url": "https://github.com/M0t0biker/MotoKeyLes-firmware/releases/download/v0.10.10/MotoKeyLes-0.10.10.bin",
-  "release": "https://github.com/M0t0biker/MotoKeyLes-firmware/releases/tag/v0.10.10"
+  "file": "MotoKeyLes-0.10.11.bin",
+  "size": 1860944,
+  "sha256": "444fc4c672ee0eb051f107329b524a7d41714e153ed7850d6888dd15805049c0",
+  "url": "https://github.com/M0t0biker/MotoKeyLes-firmware/releases/download/v0.10.11/MotoKeyLes-0.10.11.bin",
+  "release": "https://github.com/M0t0biker/MotoKeyLes-firmware/releases/tag/v0.10.11"
 }
